@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Mksport - Trang Cá Cược Chính Thức, An Toàn và Ưu Đãi Hấp Dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Mksport <https://mksport.com.mx/>`_ là trang cá cược trực tuyến chính thức của MK Sport, được thành lập từ năm 2020 và cấp phép bởi chính phủ Philippines. Với mục tiêu mở rộng thị trường, Mksport hợp tác với nhiều đối tác chiến lược trong và ngoài nước. Mksport cung cấp đa dạng các sảnh game với đội ngũ MC và Dealer xinh đẹp, mang đến trải nghiệm cá cược an toàn và uy tín.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 9/5A Đ.Đỗ Nhuận, Sơn Kỳ, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0965084613. 
 
-Contents
---------
+Email: info@mksport.com.mx. 
 
-.. toctree::
+Website: https://mksport.com.mx/ 
 
-   usage
-   api
+#mksport #trangchumksport #dangkymksport #dangnhapmksport #linkmksport
